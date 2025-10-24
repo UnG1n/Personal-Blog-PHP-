@@ -31,7 +31,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/personal-blog.git
+git clone https://github.com/UnG1n/Personal-Blog-PHP-
 cd personal-blog
 ```
 
